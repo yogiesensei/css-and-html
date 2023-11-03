@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.gedung {
+    max-width: 300px;
+    max-height: 300px;
+}
+
+main {
+    text-align: center;
+}
+
+.makanan img {
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.makanan {
+    display: flex;
+    justify-content: center;
+}
+
+#batagor {
+    width: 500px;
+    height: 500px;
+}
+
+#peyeum {
+    background-color: pink;
+    padding: 50px;
+}
